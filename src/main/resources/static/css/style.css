@@ -1,0 +1,22 @@
+body {
+	padding: 30px 30px 30px 30px;
+}
+
+.max-width {
+	max-width: 15%;
+	min-width: 100px;
+}
+
+.max-height {
+	height: 30px;
+}
+
+.textarea {
+	resize: none;
+	min-height: 80px;
+	overflow-y: scroll;
+}
+
+.margin-left {
+	margin-left: 93%;
+}
